@@ -1,0 +1,87 @@
+div
+{
+    padding: 20px;
+    border: 3px dashed darkkhaki;
+    margin: 50px;
+    
+}
+.alto1
+{
+    background-color: coral;
+    border: darkkhaki;
+    margin-top: 100px;
+    width: 100px;
+    height: 100px;
+}
+.medio1
+{
+    background-color: cornflowerblue;
+    border: darkkhaki;
+    margin-top: 0px;
+    margin-left: 500px;
+    width: 100px;
+    height: 100px;
+}
+.bajo1
+{
+    background-color: darkseagreen;
+    border: darkkhaki;
+    margin-top: 0px;
+    margin-left: 1000px;
+    width: 100px;
+    height: 100px;
+}
+.alto2
+{
+    background-color: coral;
+    border: darkkhaki;
+    margin-top: 100px;
+    margin-left: 500px;
+    width: 100px;
+    height: 100px;
+}
+.medio2
+{
+    background-color: cornflowerblue;
+    border: darkkhaki;
+    margin-top: 100px;
+    margin-left: 250px;
+    width: 600px;
+    height: 100px;
+}
+.bajo2
+{
+    background-color: darkseagreen;
+    border: darkkhaki;
+    margin-top: 100px;
+    margin-left: 500px;
+    width: 100px;
+    height: 100px;
+}
+.alto3
+{
+    background-color: coral;
+    border: darkkhaki;
+    margin-top: 200px;
+    margin-left: 1000px;
+    width: 100px;
+    height: 100px;
+}
+.medio3
+{
+    background-color: cornflowerblue;
+    border: darkkhaki;
+    margin-top: -50px;
+    margin-left: 1000px;
+    width: 100px;
+    height: 100px;
+}
+.bajo3
+{
+    background-color: darkseagreen;
+    border: darkkhaki;
+    margin-top: -50px;
+    margin-left: 1000px;
+    width: 100px;
+    height: 100px;
+}
